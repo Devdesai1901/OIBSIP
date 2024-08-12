@@ -29,7 +29,7 @@ This web application streamlines the examination process with features for both 
 ## Installation Setup
 
 1. Clone the repository  
-   you can clone this repository using command: https://github.com/Devdesai1901/FinalChatroom.git
+   you can clone this repository using command: (https://github.com/Devdesai1901/OIBSIP.git)
 2. Unzip FinalChartoom.xcodeproj.zip and then open it.
 3. Go to client folder and use the this command **pnpm i** to install all the packages
 4. Go to the server folder and  run this command to start the application **mvn spring-boot:run**.
